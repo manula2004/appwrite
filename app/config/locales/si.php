@@ -1,6 +1,7 @@
 <?php
 return [
-    'settings.inspire' => '"ප්‍රඥාවන්ත වීමේ කලාව යනු නොසලකා හැරිය යුතු දේ දැන ගැනීමේ කලාවයි."', // This is the line printed in the homepage and console 'view-source'
+    'settings.inspire' => '"
+බුද්ධිමත් වීමේ කලාව යනු නොසලකා හැරිය යුතු දේ දැන ගැනීමේ කලාවයි."', // This is the line printed in the homepage and console 'view-source'
     'settings.locale' => 'si',
     'settings.direction' => 'ltr',
     // Service - Users
@@ -10,7 +11,7 @@ return [
     'account.emails.recovery.title' => 'මුරපදය යළි පිහිටුවන්න',
     'account.emails.recovery.body' => 'si.email.auth.recovery.tpl',
 
-    'account.emails.invitation.title' => 'ආරාධනයයි , %s කණ්ඩායමට %s ව්‍යාපෘතියෙහි',
+    'account.emails.invitation.title' => 'සාදරයෙන් පිළිගනිමු , %s කණ්ඩායමට %s ව්‍යාපෘතියෙහි',
     'account.emails.invitation.body' => 'si.email.auth.invitation.tpl',
     'locale.country.unknown' => 'Unknown',
     'countries' => include 'si.countries.php',
